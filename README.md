@@ -1,1 +1,1 @@
-# stream-video-course-codeigniter
+# CodeIgniter Manage Course
